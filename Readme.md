@@ -1,4 +1,3 @@
-```md
 # Action Recognition Project
 
 This project focuses on **Action Recognition** using deep learning techniques, including transfer learning, optical flow-based motion recognition, data augmentation, and cross-validation. The models are trained on a subset of the **Stanford 40 Actions Dataset** and the **HMDB51 Dataset**.
@@ -95,4 +94,3 @@ Feel free to open issues or submit pull requests for improvements.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
