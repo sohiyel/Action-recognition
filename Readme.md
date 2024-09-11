@@ -33,8 +33,8 @@ To set up the project, please follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/action-recognition.git
-   cd action-recognition
+   git clone https://github.com/sohiyel/Action-recognition.git
+   cd Action-recognition
    ```
 
 2. Install the required dependencies:
